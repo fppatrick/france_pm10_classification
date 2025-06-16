@@ -4,6 +4,7 @@
 #' To run this example, make sure you have the following dependencies:
 #' mquantile.R (https://github.com/fppatrick/mquantile_regression.git)
 #' mquantile.rlda.R (https://github.com/fppatrick/mquantile.rlda.git)
+#' @author: Patrick Ferreira Patrocinio
 
 setwd("dependencies path")
 source('mquantile.R')
